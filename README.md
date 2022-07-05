@@ -5,4 +5,4 @@
 
 ## Results
 ### Comparing the districts passing percentages does not show any significant change.
-![Original District Summary](http://localhost:8888/view/Documents/GitHub/School_District_Analysis/Resources/Original_District%20Summary.PNG)
+![Original District Summary](Resources/Original_District Summary.PNG)
