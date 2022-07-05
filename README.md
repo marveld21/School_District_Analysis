@@ -5,4 +5,4 @@
 
 ## Results
 ### Comparing the districts passing percentages does not show any significant change.
-![Original District Summary](Resources/Original_District Summary.PNG)
+![Original District Summary](https://github.com/marveld21/School_District_Analysis/blob/main/Resources/Original_District%20Summary.PNG?raw=true)
